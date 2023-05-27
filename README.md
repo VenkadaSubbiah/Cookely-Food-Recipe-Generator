@@ -1,4 +1,4 @@
-# Cookely - Food Recipe Generator
+### Cookely - Food Recipe Generator
 
 Recipe application with custom recipe uploads.
 
